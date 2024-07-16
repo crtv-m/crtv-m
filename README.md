@@ -1,6 +1,6 @@
 # Hello!
 
-👋 I’m Mikhail Karataev, a web developer.
+👋 I’m Michael Carataev, a web developer.
 
 ## About Me
 
