@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 👀 I’m interested in web development, including creating web pages, developing themes and plugins for WordPress, working with JavaScript, as well as server setup and application containerization.
+- 👀 I’m interested in web development, including creating web pages, developing themes and plugins for WordPress, working with JavaScript, PHP, Laravel, as well as server setup and application containerization.
 - 🌱 I’m currently learning new technologies and development methodologies to enhance my skills in web development.
 - 💞️ I’m open to collaborating on projects related to web development, creating responsive web pages, developing online stores, and version control management.
 - 📫 You can reach me through the following channels:
