@@ -10,7 +10,7 @@
 - 📫 You can reach me through the following channels:
 
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/krtv-m)
-  [![Telegram](https://img.shields.io/badge/Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Carataev_Michael)<-
+  [![Telegram](https://img.shields.io/badge/Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Carataev_Michael)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carataev-michael/)
   [![CodePen](https://img.shields.io/badge/CodePen-%23121011?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/carataev-michael)
   [![Facebook](https://img.shields.io/badge/Facebook-%23121011?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61562474045095)
